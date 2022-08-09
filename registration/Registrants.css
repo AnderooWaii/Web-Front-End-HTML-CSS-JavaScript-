@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    }
+  
+    
+    th, tr,    td {
+        border: 2px solid rgb(49, 49, 49);
+        padding: 5px 10px;
+    }
+html{
+    background-color: #044caa;
+    color: white;
+}
+.container{
+    margin-left: 370px;
+}
